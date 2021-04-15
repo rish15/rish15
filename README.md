@@ -7,7 +7,6 @@ I am a Fullstack developer mostly working with MEAN stack along with SQL, fullti
 I like to explore multiple tech pretty curious about what happens behind the scenes of web apps (eg: servers/databases etc)
 
 ---
-
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="50px" height="50px"/>
