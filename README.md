@@ -3,7 +3,7 @@
 
 [![github](https://img.shields.io/github/followers/rish15?style=social)](https://nodesource.com/products/nsolid)  [![tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frishpein15)](https://twitter.com/rishpein15)
 
-I am a Fullstack developer mostly working with MEAN stack along with SQL, fulltime vim user with atom(sometimes), I use linux as my primary OS, alcritty as terminal emulator and ubuntu as distro. 
+I am a Fullstack developer mostly working with MEAN stack along with SQL, fulltime vim user with atom(sometimes), I use linux as my primary OS, alacritty as terminal emulator and ubuntu as distro. 
 I like to explore multiple tech pretty curious about what happens behind the scenes of web apps (eg: servers/databases etc)
 
 ---
